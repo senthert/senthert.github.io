@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://senthert.github.io/senthert.senthert
+Sitemap: https://senthert.github.io/app/senthert.senthert
+Sitemap: https://senthert.github.io/assets/senthert.senthert
+Sitemap: https://senthert.github.io/css/senthert.senthert
+Sitemap: https://senthert.github.io/includes/senthert.senthert
+Sitemap: https://senthert.github.io/item/senthert.senthert
+Sitemap: https://senthert.github.io/src/senthert.senthert
